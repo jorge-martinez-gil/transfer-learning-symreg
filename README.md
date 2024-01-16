@@ -25,6 +25,7 @@ Please cite our work if you find it useful:
   url          = {https://doi.org/10.3233/JIFS-230141},
   doi          = {10.3233/JIFS-230141}
 }
+```
 
 ## 📄 License
 
